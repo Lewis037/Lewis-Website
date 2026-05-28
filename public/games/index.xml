@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on My New Hugo Project</title>
+    <link>http://localhost:1313/games/</link>
+    <description>Recent content in Games on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kagemusha (WIP)</title>
+      <link>http://localhost:1313/games/kagemusha/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/kagemusha/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Kagemusha is a first person stealth game set in a fictional version of edo period Japan. You are a ninja who has been tasked with assassinating a strange war general that resides in the mountains, but things don&amp;rsquo;t go as planned as mysterious powers wielded by the target catch you off guard and defeat you. With the help of mysterious beings, embark on a journey to get your revenge and stop this madman, honing your techniques and learning more about this new power.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symmetry Survivors</title>
+      <link>http://localhost:1313/games/symmetry-survivors/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/symmetry-survivors/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This small game was made for my first game jam, inspired by &amp;lsquo;Vampire Survivors&amp;rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/symmetry-survivors&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/symmetry-survivors&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OverWorked</title>
+      <link>http://localhost:1313/games/overworked/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/overworked/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A project that one of my designer friends was doing for one of their submissions. I made the general gameplay loop for the game and all the code involved with that.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

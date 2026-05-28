@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on My New Hugo Project</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email (Preferred)</title>
+      <link>http://localhost:1313/contact/email/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/email/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:lewisneil037@gmail.com&#34;&gt;lewisneil037@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phone</title>
+      <link>http://localhost:1313/contact/phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/phone/</guid>
+      <description>&lt;p&gt;+44 7889 770239 - Send a message&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
