@@ -1,6 +1,6 @@
 ---
 title: "Stealth game enemies"
-date: 2026-2-19
+date: 2026-02-19
 draft: false
 ---
 

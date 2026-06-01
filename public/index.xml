@@ -44,6 +44,13 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This small game was made for my first game jam, inspired by &amp;lsquo;Vampire Survivors&amp;rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/symmetry-survivors&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/symmetry-survivors&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Stealth game enemies</title>
+      <link>http://localhost:1313/mechanics/stealthais/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mechanics/stealthais/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For a stealth game I am working on, I worked on the AIs, using Unreal engine along with free animations I found online at mixamo. The features for these enemies include: patrolling along their personal spline path (can be disabled in their settings); state switching between passive, investigating and aggressive; sight bars that increase as long as they see the player before switching to aggresive; hearing that causes them to patrol the area they heard a noise.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Homing projectiles</title>
       <link>http://localhost:1313/mechanics/homing/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>

@@ -16,6 +16,13 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This is a climbing system I made that was inspired by the uncharted series. This climbing system was made with Unreal using its blueprint system, interfaces, structs and components to add in the climbing behaviours. This climbing system contains: jumping up onto a ledge, hanging on a ledge, moving left/right on the ledge, climbing up from hanging, jumping up/left/right from hanging onto another ledge, dropping down into hanging, falling and catching yourself on the ledge.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Stealth game enemies</title>
+      <link>http://localhost:1313/mechanics/stealthais/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mechanics/stealthais/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For a stealth game I am working on, I worked on the AIs, using Unreal engine along with free animations I found online at mixamo. The features for these enemies include: patrolling along their personal spline path (can be disabled in their settings); state switching between passive, investigating and aggressive; sight bars that increase as long as they see the player before switching to aggresive; hearing that causes them to patrol the area they heard a noise.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Homing projectiles</title>
       <link>http://localhost:1313/mechanics/homing/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
