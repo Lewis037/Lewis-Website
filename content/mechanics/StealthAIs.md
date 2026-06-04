@@ -1,5 +1,5 @@
 ---
-title: "Stealth game enemies"
+title: "Stealth game enemies (WIP)"
 date: 2026-02-19
 draft: false
 ---
@@ -10,6 +10,4 @@ For a stealth game I am working on, I worked on the AIs, using Unreal engine alo
 
 
 ## Media
-
-
-
+# Video Showcase

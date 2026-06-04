@@ -20,14 +20,14 @@
       <link>http://localhost:1313/games/symmetry-survivors/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/games/symmetry-survivors/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This small game was made for my first game jam, inspired by &amp;lsquo;Vampire Survivors&amp;rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/symmetry-survivors&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/symmetry-survivors&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This small game was made for my first game jam, inspired by &amp;lsquo;Vampire Survivors&amp;rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;thumbnail&#34;&gt;Thumbnail&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SymSurv.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/symmetry-survivors&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/symmetry-survivors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/james-geraty-852398252/&#34; target=&#34;_blank&#34;&gt;James Geraty&lt;/a&gt; - Designer&lt;/p&gt;</description>
     </item>
     <item>
       <title>OverWorked</title>
       <link>http://localhost:1313/games/overworked/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/games/overworked/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A project that one of my designer friends was doing for one of their submissions. I made the general gameplay loop for the game and all the code involved with that.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;OverWorked is a short game where you, a new hire for a game company, need to pump out as many games as you can within your deadline. You are tasked with making the game entirely on your own and you best not fail or you&amp;rsquo;re fired.&lt;/p&gt;&#xA;&lt;p&gt;This is project that one of my designer friends was doing for one of their submissions. I made the general gameplay loop for the game and all the code involved with that.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

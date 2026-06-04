@@ -12,11 +12,6 @@ My name is Lewis Neil; I am a graduate from the University of East London where 
 
 I have a lot of experience using Unreal and the many tools it has like the blueprint system, I also have a very good understanding of 3D mathematics and using that mathematical knowledge to develop my gameplay systems. I am quite experienced in using C++ for programming different features and am quite quick to pick up and learn new concepts. In my own time, I am teaching myself how to use Unity game engine and C# to develop my own solo personal game. My main focus is gameplay system programming, whether that be the enemies for the game to the main system for which the gameplay loop is dependant on.
 
-## Highlight Reel
-
-
-
-
 
 ## Experience
 
