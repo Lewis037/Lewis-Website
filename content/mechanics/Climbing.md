@@ -12,5 +12,5 @@ Animations from Mixamo and the Advanced Locomotion System
 
 ## Media
 # Video showcase
-
+https://youtu.be/RNBu8rA2Cck
 

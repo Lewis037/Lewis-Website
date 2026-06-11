@@ -13,14 +13,14 @@
       <link>http://localhost:1313/contact/email/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/email/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;mailto:lewisneil037@gmail.com&#34;&gt;lewisneil037@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:lewisneil037@gmail.com&#34;&gt;lewisneil037@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Phone</title>
       <link>http://localhost:1313/contact/phone/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/phone/</guid>
-      <description>&lt;p&gt;+44 7889 770239 - Send a message&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;phone&#34;&gt;Phone&lt;/h2&gt;&#xA;&lt;p&gt;+44 7889 770239 - Send a message&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

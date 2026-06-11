@@ -16,25 +16,18 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This is a climbing system I made that was inspired by the uncharted series. This climbing system was made with Unreal using its blueprint system, interfaces, structs and components to add in the climbing behaviours. This climbing system contains: jumping up onto a ledge, hanging on a ledge, moving left/right on the ledge, climbing up from hanging, jumping up/left/right from hanging onto another ledge, dropping down into hanging, falling and catching yourself on the ledge.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Stealth game enemies (WIP)</title>
-      <link>http://localhost:1313/mechanics/stealthais/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mechanics/stealthais/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For a stealth game I am working on, I worked on the AIs, using Unreal engine along with free animations I found online at mixamo. The features for these enemies include: patrolling along their personal spline path (can be disabled in their settings); state switching between passive, investigating and aggressive; sight bars that increase as long as they see the player before switching to aggresive; hearing that causes them to patrol the area they heard a noise.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Homing projectiles</title>
       <link>http://localhost:1313/mechanics/homing/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/homing/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Using Unreal Engine, in a first person project, I made a projectile that will make a spline from the direction the player is facing and the target so it smoothly curves into the target that is locked on. The projectile updates the spline as it flies and so is able to also hit moving targets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;video-showcase&#34;&gt;Video Showcase&lt;/h1&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Using Unreal Engine, in a first person project, I made a projectile that will make a spline from the direction the player is facing and the target so it smoothly curves into the target that is locked on. The projectile updates the spline as it flies and so is able to also hit moving targets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;video-showcase&#34;&gt;Video Showcase&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Homing.gif&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Split Screen</title>
       <link>http://localhost:1313/mechanics/splitscreen/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/splitscreen/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For this, I visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;1-player&#34;&gt;1 Player&lt;/h1&gt;&#xA;&lt;h1 id=&#34;2-players&#34;&gt;2 Players&lt;/h1&gt;&#xA;&lt;h1 id=&#34;3-players&#34;&gt;3 Players&lt;/h1&gt;&#xA;&lt;h1 id=&#34;4-players&#34;&gt;4 Players&lt;/h1&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For this, I visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;1-player&#34;&gt;1 Player&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr1.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;2-players&#34;&gt;2 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr2.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;3-players&#34;&gt;3 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr4.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;4-players&#34;&gt;4 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr3.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

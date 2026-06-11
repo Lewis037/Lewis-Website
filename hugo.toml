@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "poison"
-plurulizelisttitles = false
+plurulizelisttitles = false #Make sure that folders for sidebar end in 's'
 
 [params]
     brand = "Lewis Neil"                      # name of the site - appears in the sidebar
@@ -10,6 +10,7 @@ plurulizelisttitles = false
     description = "Portfolio" 
     dark_mode = true                      # optional - defaults to false
 
+    front_page_content = ["games","mechanics"]
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -21,7 +22,7 @@ plurulizelisttitles = false
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Games", URL = "/games/", HasChildren = true, Limit = 10},
         {Name = "Mechanics", URL = "/mechanics/", HasChildren = true, Limit = 10},
-        {Name = "Contact", URL = "/contact/", HasChildren = true, Limit = 5},
+        {Name = "Contact", URL = "/contacts/", HasChildren = true, Limit = 5},
     ]
 
     #Links to socials.

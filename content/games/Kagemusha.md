@@ -14,8 +14,10 @@ During the final year of my University course, one thing required was for us to 
 ![invalid](/Kagemusha.png)
 
 # Sneak into the castle
+![invalid](/KagCast.png)
 
 # Hide from enemies
+![invalid](/KagHide.png)
 
 ## Try yourself
 

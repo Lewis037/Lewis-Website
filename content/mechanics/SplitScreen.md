@@ -10,9 +10,13 @@ For this, I visual studio with Raylib to make it so that the game splits the scr
 
 ## Media
 # 1 Player
+![invalid](/SplitScr1.png)
 
 # 2 Players
+![invalid](/SplitScr2.png)
 
 # 3 Players
+![invalid](/SplitScr4.png)
 
 # 4 Players
+![invalid](/SplitScr3.png)
