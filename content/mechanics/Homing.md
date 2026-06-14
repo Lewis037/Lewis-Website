@@ -10,4 +10,12 @@ Using Unreal Engine, in a first person project, I made a projectile that will ma
 
 ## Media
 # Video Showcase
-![invalid](/Homing.gif)
+
+Curves into the target
+<img src="/Homing1.gif" alt="Homing Projectile 1" style="width:100%">
+
+Moves at a set speed regardless of distance to the target
+<img src="/Homing2.gif" alt="Homing Projectile 2" style="width:100%">
+
+Checks for if anything is blocking the path
+<img src="/Homing3.gif" alt="Homing Projectile 3" style="width:100%">

@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
+canonifyURLs = true
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "poison"
@@ -22,7 +23,6 @@ plurulizelisttitles = false #Make sure that folders for sidebar end in 's'
         {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Games", URL = "/games/", HasChildren = true, Limit = 10},
         {Name = "Mechanics", URL = "/mechanics/", HasChildren = true, Limit = 10},
-        {Name = "Contact", URL = "/contacts/", HasChildren = true, Limit = 5},
     ]
 
     #Links to socials.
@@ -84,3 +84,9 @@ plurulizelisttitles = false #Make sure that folders for sidebar end in 's'
 [taxonomies]
     series = 'series'
     tags = 'tags'
+
+# To render HTML
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
