@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://LewisHugo_037.github.io/'
 canonifyURLs = true
 locale = 'en-us'
 title = 'My New Hugo Project'
