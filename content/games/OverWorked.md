@@ -14,10 +14,10 @@ This is project that one of my designer friends was doing for one of their submi
 https://youtu.be/0hby5Bciefw
 
 # Make the components
-![invalid](/OverW2.png)
+![invalid](/Over2.png)
 
 # Meet the requirements
-![invalid](/OverW1.png)
+![invalid](/Over1.png)
 
 ## Try yourself
 https://lewis-037.itch.io/overworked
