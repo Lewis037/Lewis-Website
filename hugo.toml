@@ -90,3 +90,7 @@ plurulizelisttitles = false #Make sure that folders for sidebar end in 's'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
