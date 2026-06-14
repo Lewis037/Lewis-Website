@@ -6,7 +6,7 @@ draft: false
 
 Hello, welcome to my Portfolio
 
-My name is Lewis Neil; I am a graduate from the University of East London where I studied Game programming for 3 years. I am very passionate about programming and enjoy making different mechanics for games. During my free time, I work on my own personal projects or small projects with others to get more experience and better my understanding of different programming techniques and methods I could utilize. I have experience working with other game developers in different fields than my own to create games collectively, I work well with teams as I make sure to communicate frequently so that there is no confusion or misunderstandings on what needs to be done. I am a very motivated developer as I enjoy seeing the features I make coming together as I develop them further. I am very passionate about making gameplay systems as I am very critical of myself to make sure the system isn't half-baked or unenjoyable because I want to make something that not only I enjoy playing around with but for others to enjoy as well.
+My name is Lewis Neil, I am a graduate from the University of East London where I studied Game programming for 3 years. I am very passionate about programming and enjoy making different mechanics for games. During my free time, I work on my own personal projects or small projects with others to get more experience and better my understanding of different programming techniques and methods I could utilize. I have experience working with other game developers in different fields than my own to create games collectively, I work well with teams as I make sure to communicate frequently so that there is no confusion or misunderstandings on what needs to be done. I am a very motivated developer as I enjoy seeing the features I make coming together as I develop them further. I am very passionate about making gameplay systems as I am very critical of myself to make sure the system isn't half-baked or unenjoyable because I want to make something that not only I enjoy playing around with but for others to enjoy as well.
 
 
 
@@ -25,6 +25,6 @@ I also have some experience with Godot game engine as during a Ukie game jam, my
 
 During my free time, I do a few different things, right now I am currently imporving my skills at 2D pixel art for one of my own personal projects and I soon have plans to learn some more about music and hand drawn animating for the aforementioned project that I am hoping to eventually realise to my intended vision.
 
-Outside of working on personal proejects, I play a lot of game, mostly on Playstation as I enjoy trophy hunting on different games as I find the sense of 100% completing things to be quite fun and gets the most out of the different games I've played.
+Outside of working on personal projects, I play a lot of games, mostly on Playstation as I enjoy trophy hunting on different games as I find the sense of 100% completing things to be quite fun and gets the most out of the different games I've played.
 
 I chose to be a game programmer as I enjoyed the gameplay loop and different features of games I played over the years like Ratchet & Clank, God of War, Destiny, Rocket League and many more which cemented my love for games and the limitless potential they have for what can be done.
