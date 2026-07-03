@@ -6,7 +6,7 @@ draft: false
 
 ## Overview
 
-For this, I visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.
+For this, I used visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.
 
 ## Media
 # 1 Player
