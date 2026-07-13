@@ -19,3 +19,12 @@ Moves at a set speed regardless of distance to the target
 
 Checks for if anything is blocking the path
 <img src="/Homing3.gif" alt="Homing Projectile 3" style="width:100%">
+
+## Code Snippets
+![invalid](/CS_Homing1.png)
+
+![invalid](/CS_Homing2.png)
+The code for setting up the three main points of the homing spline; the beggining point, the middle point and the end point along with their respective leaving and arriving tangents so that it makes the desired curve.
+
+![invalid](/CS_Homing3.png)
+Used for updating the curve of the spline whulst the projectile is going along it so that moving targets won't be able to evade the homing projectiles.

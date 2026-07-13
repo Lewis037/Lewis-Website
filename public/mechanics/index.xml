@@ -34,7 +34,7 @@
       <link>http://localhost:1313/mechanics/stealthais/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/stealthais/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;During the development of Kagemusha, one of my earliest tasks I had was to make the enemies for the game, the AIs have 3 main states where they are passive and just patrol along their path or stand still depending on if they are set to patrol, an investigating state where they head towards a sound or saw a glimpse of the player and finally, an agrressive state&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-it-here&#34;&gt;Try it here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/kagemusha-public-demo&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/kagemusha-public-demo&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;During the development of Kagemusha, one of my earliest tasks I had was to make the enemies for the game, the AIs have 3 main states where they are passive and just patrol along their path or stand still depending on if they are set to patrol, an investigating state where they head towards a sound or saw a glimpse of the player and finally, an agrressive state where they chase the player and shoot at them. The AIs use a sight bar system to see the player over time instead of immediately noticing the player.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
