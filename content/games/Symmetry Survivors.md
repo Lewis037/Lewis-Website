@@ -2,6 +2,7 @@
 title: "Symmetry Survivors"
 date: 2026-02-27
 draft: false
+status: "Completed"
 ---
 
 ## Overview
@@ -10,7 +11,7 @@ This small game was made for my first game jam, inspired by 'Vampire Survivors' 
 
 ## Media
 # Thumbnail
-![invalid](/SymSurv.png)
+![invalid](/SymSurv/SymSurv.png)
 
 ## Try yourself
 https://geratt.itch.io/symmetry-survivors

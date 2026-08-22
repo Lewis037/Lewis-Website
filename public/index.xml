@@ -6,17 +6,24 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Climbing System (WIP)</title>
+      <title>Magic Switching System</title>
+      <link>http://localhost:1313/mechanics/magicswitching/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mechanics/magicswitching/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For my first solo game, in Unreal Engine, the key feature of this game is the ability to switch between multiple classes of spells in a similar method to switching guns in a shooter where each gun has a unique type i.e. Snipers, ARs, Pistols etc. However, in the case of this mechanic, the spells have different types which changes how the spell works once activated based on the type of spell: Straight, Arc, Area of Effect, Beam and Buff. The spells have all their important variables stored within a data table that when spawned, fetches the values to store in a variable based on a row name that is set within each individual spells blueprint. The majority of the logic for all the spells is done within a single C++ class that switches to different functions and firing logic depending on what type of spell the spell data reads from the data table, leaving the unique logic to be done within blueprints like what the spell looks like and what it is meant to do with the actor that it collides with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Climbing System Prototype</title>
       <link>http://localhost:1313/mechanics/climbing/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/climbing/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This is a climbing system I made that was inspired by the uncharted series. This climbing system was made with Unreal using its blueprint system, interfaces, structs and components to add in the climbing behaviours. This climbing system contains: jumping up onto a ledge, hanging on a ledge, moving left/right on the ledge, climbing up from hanging, jumping up/left/right from hanging onto another ledge, dropping down into hanging, falling and catching yourself on the ledge.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kagemusha (WIP)</title>
+      <title>Kagemusha</title>
       <link>http://localhost:1313/games/kagemusha/</link>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/games/kagemusha/</guid>
@@ -27,14 +34,14 @@
       <link>http://localhost:1313/games/symmetry-survivors/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/games/symmetry-survivors/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This small game was made for my first game jam, inspired by &amp;lsquo;Vampire Survivors&amp;rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;thumbnail&#34;&gt;Thumbnail&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SymSurv.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/symmetry-survivors&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/symmetry-survivors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/james-geraty-852398252/&#34; target=&#34;_blank&#34;&gt;James Geraty&lt;/a&gt; - Designer&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This small game was made for my first game jam, inspired by &amp;lsquo;Vampire Survivors&amp;rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;thumbnail&#34;&gt;Thumbnail&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SymSurv/SymSurv.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-yourself&#34;&gt;Try yourself&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://geratt.itch.io/symmetry-survivors&#34; target=&#34;_blank&#34;&gt;https://geratt.itch.io/symmetry-survivors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/james-geraty-852398252/&#34; target=&#34;_blank&#34;&gt;James Geraty&lt;/a&gt; - Designer&lt;/p&gt;</description>
     </item>
     <item>
       <title>Homing projectiles</title>
       <link>http://localhost:1313/mechanics/homing/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/homing/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Using Unreal Engine, in a first person project, I made a projectile that will make a spline from the direction the player is facing and the target so it smoothly curves into the target that is locked on. The projectile updates the spline as it flies and so is able to also hit moving targets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;video-showcase&#34;&gt;Video Showcase&lt;/h1&gt;&#xA;&lt;p&gt;Curves into the target&#xA;&lt;img src=&#34;http://localhost:1313/Homing1.gif&#34; alt=&#34;Homing Projectile 1&#34; style=&#34;width:100%&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moves at a set speed regardless of distance to the target&#xA;&lt;img src=&#34;http://localhost:1313/Homing2.gif&#34; alt=&#34;Homing Projectile 2&#34; style=&#34;width:100%&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Using Unreal Engine, in a first person project, I made a projectile that will make a spline from the direction the player is facing and the target so it smoothly curves into the target that is locked on. The projectile updates the spline as it flies and so is able to also hit moving targets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;video-showcase&#34;&gt;Video Showcase&lt;/h1&gt;&#xA;&lt;p&gt;Curves into the target&#xA;&lt;img src=&#34;http://localhost:1313/Kagemusha/Homing/Homing1.gif&#34; alt=&#34;Homing Projectile 1&#34; style=&#34;width:100%&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Moves at a set speed regardless of distance to the target&#xA;&lt;img src=&#34;http://localhost:1313/Kagemusha/Homing/Homing2.gif&#34; alt=&#34;Homing Projectile 2&#34; style=&#34;width:100%&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OverWorked</title>
@@ -48,10 +55,10 @@
       <link>http://localhost:1313/mechanics/splitscreen/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/splitscreen/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For this, I used visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;1-player&#34;&gt;1 Player&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr1.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;2-players&#34;&gt;2 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr2.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;3-players&#34;&gt;3 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr3.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;4-players&#34;&gt;4 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr4.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For this, I used visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;&#xA;&lt;h1 id=&#34;1-player&#34;&gt;1 Player&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr/SplitScr1.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;2-players&#34;&gt;2 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr/SplitScr2.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;3-players&#34;&gt;3 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr/SplitScr3.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;4-players&#34;&gt;4 Players&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SplitScr/SplitScr4.png&#34; alt=&#34;invalid&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Stealth game AIs</title>
+      <title>Stealth game AIs Prototype</title>
       <link>http://localhost:1313/mechanics/stealthais/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mechanics/stealthais/</guid>

@@ -74,7 +74,7 @@
 <meta property="og:url" content="http://localhost:1313/" />
 
 
-<meta property="og:updated_time" content="2026-05-28T00:00:00Z" />
+<meta property="og:updated_time" content="0001-01-01T00:00:00Z" />
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href='http://localhost:1313/sitemap.xml' />
@@ -234,7 +234,7 @@
                         </li>
                         
                             <li class="bullet">
-                                <a href="http://localhost:1313/games/kagemusha/">Kagemusha (WIP)</a>
+                                <a href="http://localhost:1313/games/kagemusha/">Kagemusha</a>
                             </li>
                         
                             <li class="bullet">
@@ -280,7 +280,11 @@
                         </li>
                         
                             <li class="bullet">
-                                <a href="http://localhost:1313/mechanics/climbing/">Climbing System (WIP)</a>
+                                <a href="http://localhost:1313/mechanics/magicswitching/">Magic Switching System</a>
+                            </li>
+                        
+                            <li class="bullet">
+                                <a href="http://localhost:1313/mechanics/climbing/">Climbing System Prototype</a>
                             </li>
                         
                             <li class="bullet">
@@ -292,7 +296,7 @@
                             </li>
                         
                             <li class="bullet">
-                                <a href="http://localhost:1313/mechanics/stealthais/">Stealth game AIs</a>
+                                <a href="http://localhost:1313/mechanics/stealthais/">Stealth game AIs Prototype</a>
                             </li>
                         
                     
@@ -346,6 +350,12 @@
 
 
 
+    <a target="_blank" class="social" title="Email" href="mailto:lewisneil037@gmail.com">
+       <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1.2em" viewBox="0 0 485.211 485.211">
+            <path fill="currentColor" d="M301.393,241.631L464.866,424.56H20.332l163.474-182.928l58.801,51.443L301.393,241.631z M462.174,60.651H23.027 l219.579,192.142L462.174,60.651z M324.225,221.67l160.986,180.151V80.792L324.225,221.67z M0,80.792v321.029L160.972,221.64 L0,80.792z"/>
+       </svg>
+    </a>
+
 
 
 
@@ -365,7 +375,50 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <article class="post">
         <div class="info">
   <h1 class="post-title">
-    <a href="http://localhost:1313/mechanics/climbing/">Climbing System (WIP)</a>
+    <a href="http://localhost:1313/mechanics/magicswitching/">Magic Switching System</a>
+  </h1>
+
+  <div class="headline">
+    <div>
+      
+      
+      <time datetime=" 2026-08-22T00:00:00Z" class="post-date">
+        August 22, 2026
+      </time>
+      
+      <span> - </span>
+      <span class="reading-time">
+        
+          
+        
+
+        <span>3 mins read</span>
+      </span>
+    </div>
+
+    
+  </div>
+
+  
+  
+
+  
+</div>
+
+        
+        <h2 id="overview">Overview</h2>
+<p>For my first solo game, in Unreal Engine, the key feature of this game is the ability to switch between multiple classes of spells in a similar method to switching guns in a shooter where each gun has a unique type i.e. Snipers, ARs, Pistols etc. However, in the case of this mechanic, the spells have different types which changes how the spell works once activated based on the type of spell: Straight, Arc, Area of Effect, Beam and Buff. The spells have all their important variables stored within a data table that when spawned, fetches the values to store in a variable based on a row name that is set within each individual spells blueprint. The majority of the logic for all the spells is done within a single C++ class that switches to different functions and firing logic depending on what type of spell the spell data reads from the data table, leaving the unique logic to be done within blueprints like what the spell looks like and what it is meant to do with the actor that it collides with.</p>
+        
+        <div class="read-more-link">
+            <a href="http://localhost:1313/mechanics/magicswitching/">Read More…</a>
+        </div>
+        
+        
+    </article>
+    <article class="post">
+        <div class="info">
+  <h1 class="post-title">
+    <a href="http://localhost:1313/mechanics/climbing/">Climbing System Prototype</a>
   </h1>
 
   <div class="headline">
@@ -408,7 +461,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <article class="post">
         <div class="info">
   <h1 class="post-title">
-    <a href="http://localhost:1313/games/kagemusha/">Kagemusha (WIP)</a>
+    <a href="http://localhost:1313/games/kagemusha/">Kagemusha</a>
   </h1>
 
   <div class="headline">
@@ -486,7 +539,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 <p>This small game was made for my first game jam, inspired by &lsquo;Vampire Survivors&rsquo; its a survival based game where enemies will constantly attack you to overwhelm you, but during the night, the tide turns and you become the hunter. The game jam was one and a half days and it was the first time our team used Godot game engine.</p>
 <h2 id="media">Media</h2>
 <h1 id="thumbnail">Thumbnail</h1>
-<p><img src="http://localhost:1313/SymSurv.png" alt="invalid"></p>
+<p><img src="http://localhost:1313/SymSurv/SymSurv.png" alt="invalid"></p>
 <h2 id="try-yourself">Try yourself</h2>
 <p><a href="https://geratt.itch.io/symmetry-survivors" target="_blank">https://geratt.itch.io/symmetry-survivors</a></p>
 <h2 id="credits">Credits</h2>
@@ -537,9 +590,9 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 <h2 id="media">Media</h2>
 <h1 id="video-showcase">Video Showcase</h1>
 <p>Curves into the target
-<img src="http://localhost:1313/Homing1.gif" alt="Homing Projectile 1" style="width:100%"></p>
+<img src="http://localhost:1313/Kagemusha/Homing/Homing1.gif" alt="Homing Projectile 1" style="width:100%"></p>
 <p>Moves at a set speed regardless of distance to the target
-<img src="http://localhost:1313/Homing2.gif" alt="Homing Projectile 2" style="width:100%"></p>
+<img src="http://localhost:1313/Kagemusha/Homing/Homing2.gif" alt="Homing Projectile 2" style="width:100%"></p>
         
         <div class="read-more-link">
             <a href="http://localhost:1313/mechanics/homing/">Read More…</a>
@@ -629,13 +682,13 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 <p>For this, I used visual studio with Raylib to make it so that the game splits the screen based on the number of players up to 4 and assigns them a unique controller that allows them to move around and fire a bullet and determine a winner based on the last person to lose all their lives.</p>
 <h2 id="media">Media</h2>
 <h1 id="1-player">1 Player</h1>
-<p><img src="http://localhost:1313/SplitScr1.png" alt="invalid"></p>
+<p><img src="http://localhost:1313/SplitScr/SplitScr1.png" alt="invalid"></p>
 <h1 id="2-players">2 Players</h1>
-<p><img src="http://localhost:1313/SplitScr2.png" alt="invalid"></p>
+<p><img src="http://localhost:1313/SplitScr/SplitScr2.png" alt="invalid"></p>
 <h1 id="3-players">3 Players</h1>
-<p><img src="http://localhost:1313/SplitScr3.png" alt="invalid"></p>
+<p><img src="http://localhost:1313/SplitScr/SplitScr3.png" alt="invalid"></p>
 <h1 id="4-players">4 Players</h1>
-<p><img src="http://localhost:1313/SplitScr4.png" alt="invalid"></p>
+<p><img src="http://localhost:1313/SplitScr/SplitScr4.png" alt="invalid"></p>
         
         <div class="read-more-link">
             <a href="http://localhost:1313/mechanics/splitscreen/">Read More…</a>
@@ -646,7 +699,7 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     <article class="post">
         <div class="info">
   <h1 class="post-title">
-    <a href="http://localhost:1313/mechanics/stealthais/">Stealth game AIs</a>
+    <a href="http://localhost:1313/mechanics/stealthais/">Stealth game AIs Prototype</a>
   </h1>
 
   <div class="headline">

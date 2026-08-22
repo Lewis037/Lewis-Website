@@ -1,7 +1,8 @@
 ---
-title: "Kagemusha (WIP)"
+title: "Kagemusha"
 date: 2026-05-28
 draft: false
+status: "Archived"
 ---
 
 ## Overview
@@ -11,13 +12,13 @@ Kagemusha is a first person stealth game set in a fictional version of edo perio
 During the final year of my University course, one thing required was for us to form groups and begin developing a game within our groups, we formed out group Kagemusha is the result of what we managed to accomplish 
 
 ## Media
-![invalid](/Kagemusha.png)
+![invalid](/Kagemusha/Kagemusha.png)
 
 # Sneak into the castle
-![invalid](/KagCast.png)
+![invalid](/Kagemusha/KagCast.png)
 
 # Hide from enemies
-![invalid](/KagHide.png)
+![invalid](/Kagemusha/KagHide.png)
 
 ## Try yourself
 

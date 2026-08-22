@@ -1,0 +1,44 @@
+{{ define "main" -}}
+
+<div class="content">
+    <h1>Games</h1>
+
+    {{ $completed:= where .Pages "Params.status" "Completed" }}
+    {{ $WIP:= where .Pages "Params.status" "WIP" }}
+    {{ $archived:= where .Pages "Params.status" "Archived" }}
+
+    {{ if $completed}}
+        <h2>Completed</h2>
+        <ul>
+            {{ range $completed }}
+                <li>
+                    <a href="{{ .RelPermalink}}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    {{ end }}
+
+    {{ if $WIP}}
+        <h2>WIP</h2>
+        <ul>
+            {{ range $WIP }}
+                <li>
+                    <a href="{{ .RelPermalink}}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    {{ end }}
+
+    {{ if $archived}}
+        <h2>Archived</h2>
+        <ul>
+            {{ range $archived }}
+                <li>
+                    <a href="{{ .RelPermalink}}">{{ .Title }}</a>
+                </li>
+            {{ end }}
+        </ul>
+    {{ end }}
+</div>
+
+{{ end }}

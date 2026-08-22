@@ -29,7 +29,7 @@ plurulizelisttitles = false #Make sure that folders for sidebar end in 's'
     discord_url = "https://discord.com/users/lewis_037"
     github_url = "https://github.com/Lewis037"
     linkedin_url = "https://www.linkedin.com/in/lewis-neil-679baa355/"
-    #youtube_url = "https://youtube.com"
+    email_url = "mailto:lewisneil037@gmail.com"
 
     #Hex colors for sidebar.
     moon_sun_background_color = "#FFF"   # default is #515151

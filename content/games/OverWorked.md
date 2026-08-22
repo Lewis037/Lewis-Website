@@ -2,6 +2,7 @@
 title: "OverWorked"
 date: 2025-12-14
 draft: false
+staus: "Completed"
 ---
 
 ## Overview
@@ -14,10 +15,10 @@ This is project that one of my designer friends was doing for one of their submi
 https://youtu.be/0hby5Bciefw
 
 # Make the components
-![invalid](/Over2.png)
+![invalid](/OverWorked/Over2.png)
 
 # Meet the requirements
-![invalid](/Over1.png)
+![invalid](/OverWorked/Over1.png)
 
 ## Try yourself
 https://lewis-037.itch.io/overworked
